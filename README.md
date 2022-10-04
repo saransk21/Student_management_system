@@ -16,4 +16,6 @@ Student Management System (SMS) provides a simple interface for maintenance of s
 
 - Thymeleaf
 
+- Maven - Build Tool
+
 - Eclipse STS
